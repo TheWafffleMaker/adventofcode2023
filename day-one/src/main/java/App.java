@@ -5,7 +5,12 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- *
+ * App covering the day one problem of the Advent Of Code 2023 event
+ * <p>
+ * Attributes to specify if we want to use the file or the samples, and if we want to solve the entire problem or just the first part
+ * </p>
+ * @see <a href=https://adventofcode.com/2023/day/1>Advent Of Code 2023 - Day 1</a>
+ * @author H. Bouvet
  */
 public class App {
 	public static void main(String[] args) {
