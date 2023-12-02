@@ -12,7 +12,7 @@ import java.util.stream.Stream;
  * @see <a href=https://adventofcode.com/2023/day/1>Advent Of Code 2023 - Day 1</a>
  * @author H. Bouvet
  */
-public class App {
+public class DayOneApp {
 	public static void main(String[] args) {
 		boolean useFile = false;
 		boolean secondPart = false;
